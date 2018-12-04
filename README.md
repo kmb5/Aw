@@ -1,1 +1,1 @@
-# Aw
+# Google Ads Scripts collection
